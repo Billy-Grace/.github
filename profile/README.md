@@ -1,22 +1,23 @@
 # Welcome to Billy Grace
 
-This is our organization's github account.
+This is our organization's github account. Please check our website for more info: [billygrace.com](https://www.billygrace.com)
 
 
-## Git Strategy
+## About
 
-Our strategy is to branch from master per ticket we have. This way each branch will be relatelively small. The format we use is:  
-*TicketID-name-of-ticket*
+In the complex world of marketing, many challenges lead to marketers getting lost in data.
+For many marketers, a lot of tracking data is missing or incorrect;
+attribution from the first view to the checkout has become impossible;
+decentralized analysis and optimization are incredibly time-consuming..
 
-For example we can create a branch at the start of the day to be merged later on with the name:
-```bash
-BG1234-add-linear-graph
-```
+Billy Grace aims to create a world where marketers work in perfect collaboration with AI to overcome these challenges with AI and Machine Learning models.
+Start working smarter with;
+- Up to 99% accurate data tracking
+- Unbiased data-driven attribution
+- Automated cross-channel optimization
 
-This way other team members can easily identify what is being build in the branch by either the ticket ID itself or the name used to identify it.  
+It's time to bring back the balance in marketing and globally change the way marketers work! Check out our website for more information.
 
-Then you can submit your PR to be reviewed by your other team mate, which could be subject to change based on the given feedback.  
-
-If this then has been approved, the PR can be merged and will be included in our next release.
+Headquartered in Amsterdam, The Netherlands.
 
 
