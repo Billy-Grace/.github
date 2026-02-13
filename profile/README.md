@@ -5,6 +5,8 @@ This is our organization's github account. Please check our website for more inf
 
 ## About
 
+Billy Grace, the future of marketing intelligence.
+
 In the complex world of marketing, many challenges lead to marketers getting lost in data.
 For many marketers, a lot of tracking data is missing or incorrect;
 attribution from the first view to the checkout has become impossible;
